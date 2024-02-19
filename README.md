@@ -1,3 +1,4 @@
+![image](https://github.com/KrishChouhan486/KrishChouhan486/assets/102061947/6c1d32c1-5c27-47e7-a17e-fd409a59345f)
 
 <h1 align="center">Hi 👋, I'm Krish Chouhan</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
